@@ -1,0 +1,26 @@
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="102" width="102" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <ellipse ry="47.7" rx="47.7" id="svg_2" cy="50.19063" cx="50.4" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#ffaa56"/>
+  <ellipse stroke="#000" ry="38.6" rx="37.9" id="svg_3" cy="50.69062" cx="50.4" stroke-opacity="null" stroke-width="1.5" fill="#ff9a3d"/>
+  <ellipse stroke="#000" ry="7.35955" rx="9.66292" id="svg_27" cy="35.57352" cx="31.96629" stroke-opacity="null" stroke-width="1.5" fill="#b71f1f"/>
+  <ellipse ry="8.82023" rx="8.31461" id="svg_28" cy="57.93307" cx="27.35955" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#b71f1f"/>
+  <ellipse ry="7.86517" rx="7.64045" id="svg_29" cy="25.74205" cx="56.34832" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#b71f1f"/>
+  <ellipse ry="11.85394" rx="11.01124" id="svg_31" cy="52.98925" cx="55.44944" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#b71f1f"/>
+  <ellipse ry="6.79775" rx="6.91011" id="svg_32" cy="38.71958" cx="74.49439" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#b71f1f"/>
+  <ellipse ry="8.76405" rx="8.31461" id="svg_33" cy="74.39375" cx="38.70786" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#b71f1f"/>
+  <ellipse ry="8.25843" rx="7.97753" id="svg_34" cy="77.14656" cx="57.92135" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#b71f1f"/>
+  <ellipse ry="7.80899" rx="6.91011" id="svg_35" cy="66.02296" cx="71.34832" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#b71f1f"/>
+  <ellipse ry="6.34832" rx="5.44944" id="svg_36" cy="50.6297" cx="79.32585" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#b71f1f"/>
+  <ellipse ry="4.26966" rx="3.76405" id="svg_37" cy="43.15779" cx="19.66292" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#b71f1f"/>
+  <ellipse ry="3.98876" rx="4.10112" id="svg_38" cy="19.28138" cx="44.94382" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#b71f1f"/>
+  <ellipse ry="3.98876" rx="4.10112" id="svg_39" cy="36.92183" cx="47.75281" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#b71f1f"/>
+  <ellipse ry="3.98876" rx="4.10112" id="svg_40" cy="26.02295" cx="70.22472" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#b71f1f"/>
+  <ellipse stroke="#000" ry="4.21348" rx="3.82023" id="svg_41" cy="50.6297" cx="38.93258" stroke-opacity="null" stroke-width="1.5" fill="#b71f1f"/>
+  <ellipse stroke="#000" ry="4.38202" rx="4.66292" id="svg_42" cy="22.37127" cx="34.04494" stroke-opacity="null" stroke-width="1.5" fill="#b71f1f"/>
+ </g>
+</svg>

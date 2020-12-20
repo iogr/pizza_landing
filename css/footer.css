@@ -1,0 +1,30 @@
+/*html, body {
+  height: 100%;
+  margin: 0;
+}*/
+
+/*.footer {
+  font-family: "PT Sans", "Arial", sans-serif;
+  font-size: calc(15px + 1vw);
+  font-weight: bold;
+  position: relative;
+  line-height: 1.8em;
+  bottom: 0;
+  background-color: lightgrey;
+}
+*/
+
+.footer,
+.push {
+  font-family: "PT Sans", "Arial", sans-serif;
+  font-size: calc(15px + 1vw);
+  font-weight: bold;
+  height: 50px;
+}
+
+@media (max-width: 960px) {
+  .footer {
+    font-size: 1.8em;
+    margin-left: .35em;
+  }
+}
