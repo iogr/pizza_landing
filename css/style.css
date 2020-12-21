@@ -101,7 +101,7 @@ body {
   padding: 1.5em 0em 1.5em 0em;
 }
 
-.mobileShow {
+.mobileshow {
   display: inline;
 } 
 
@@ -114,7 +114,7 @@ body {
     font-size: 2em;
   }
 
-  .mobileShow {
+  .mobileshow {
     display: none;
   }
 
