@@ -46,6 +46,7 @@ body {
 
 .booklet {
   width: 90%;
+  border-radius: 30px;
 }
 
 .intro-scroll2 {
