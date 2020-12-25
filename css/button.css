@@ -65,9 +65,3 @@
     font-size: 2em;
   }
 }
-
-@media (max-width: 480px) {
-  .button, .button2 {
-    font-size: 2em;
-  }
-}
