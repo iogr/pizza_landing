@@ -21,6 +21,8 @@
   font-size: calc(10px + 1vw);
   font-family: "PT Sans", "Arial", sans-serif;
   font-stretch: extra-expanded;
+  margin-top: calc(18px + 1vw);
+  margin-bottom: calc(10px + 1vw);
   background: #8aba56;
   color: #000;
 }

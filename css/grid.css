@@ -35,6 +35,10 @@
   border-bottom: 2px dashed #ccc;*/
 }
 
+.margin {
+  margin-top: calc(30px + 1vw);
+}
+
 @media (max-width: 960px) {
   .column-100 {
   }

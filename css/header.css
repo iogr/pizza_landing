@@ -39,16 +39,32 @@
     top: auto;
     float: none;
   }
+  
   .header-logo {
     width: 90%;
   }
+  
   .header-nav-item {
     padding: 20px 4px;
   }
+
+  .header-nav {
+    float: none;
+  }
 }
 
-@media (max-width: 320px) {
+@media (max-width: 494px) {
+  .header {
+    position: absolute;
+    float: none;
+  }
+
   .header-nav-item {
     display: none;
+  }
+
+  .header-nav {
+    float: none;
+    padding-bottom: 20px;
   }
 }
