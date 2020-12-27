@@ -4,7 +4,7 @@ body {
   background-color: #f6f5f3;
 }
 
-.wrapper  {
+.wrapper {
   font-size: calc(10px + 1vw);
   font-family: "PT Sans", "Arial", sans-serif;
   overflow: hidden;
@@ -39,11 +39,6 @@ body {
   float: right;
 }
 
-.leftimg_delivery {
-  width: 50%;
-  float: center;
-}
-
 .booklet {
   width: 90%;
   border-radius: 30px;
@@ -54,10 +49,6 @@ body {
   margin-top: calc(24px + 1vw);
 }
 
-.intro-scroll2 {
-  width: 177%;
-}
-
 .header-logo {
   width: 45%;
 }
@@ -65,7 +56,6 @@ body {
 .various-text {
   line-height: 1.5em;
   font-weight: bold;
-  /*margin: .4em;*/
   margin-bottom: 1vw;
 }
 
@@ -80,7 +70,6 @@ body {
 }
 
 .note {
-  /*border: 2px solid black;*/
   font-family: Georgia, Helvetica, serif;
   margin-top: 40px;
   margin-bottom: 30px;
