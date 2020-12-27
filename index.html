@@ -12,6 +12,7 @@
   <link rel="stylesheet" href="css/button.css" />
   <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon" />
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/parallax.js/1.4.2/parallax.min.js"></script>
 </head>
 <body>
 <div class="wrapper">
@@ -37,28 +38,34 @@
   </div>
   <!-- header -->
   <!-- main -->
+  <!-- intro -->
+  <div class="intro text-center" id="parallax" data-parallax="scroll" data-image-src="img/intro.png">
+    <div class="buffer-both">
+      <a class="button2 button-green" href="#">ЗАКАЖИ ПИЦЦУ</a>
+    </div>
+  </div>
+  <!-- intro -->
   <!-- prices -->
-  <section>
-    <div class="content" id="prices">
-      <div class="column-100" >
-        <img class="rightimg" src="img/2slices.png" alt="pizza" >
-        <div class="note">
-          <p class="list-title-various-text">MOJO'S PIZZA</p>
-          <p class="various-text">Диаметр: 30 см</p>
-          <div class="details">
-            <p>Томатный соус, сыр моцарелла, колбаски Салями, томаты Черри, перец болгарский, оливки</p>
-          </div>
-          <p>Белки: 8.0 г</p>
-          <p>Жиры: 6.0 г</p>
-          <p>Углеводы: 25.0 г</p>
-          <p>Вес: 710±15 г</p>
-          <p>Энергетическая ценность: 191.0 ккал</p>
-          <div class="buffer-both">
-            <a class="button button-green" href="#">КУПИТЬ</a>
-          </div>
+  <div class="content" id="prices">
+    <div class="column-100" >
+      <img class="rightimg" src="img/2slices.png" alt="pizza" >
+      <div class="note">
+        <p class="list-title-various-text">MOJO'S PIZZA</p>
+        <p class="various-text">Диаметр: 30 см</p>
+        <div class="details">
+          <p>Томатный соус, сыр моцарелла, колбаски Салями, томаты Черри, перец болгарский, оливки</p>
+        </div>
+        <p>Белки: 8.0 г</p>
+        <p>Жиры: 6.0 г</p>
+        <p>Углеводы: 25.0 г</p>
+        <p>Вес: 710±15 г</p>
+        <p>Энергетическая ценность: 191.0 ккал</p>
+        <div class="buffer-both">
+          <a class="button button-green" href="#">КУПИТЬ</a>
         </div>
       </div>
     </div>
+  </div>
 </div>
 <div class="content wrapper">
   <div class="column-100">
@@ -99,51 +106,47 @@
       </div>
     </div>
   </div>
-  </section>
   <!-- prices -->
   <!-- options -->
-  <section>
-    <div class="content-chapter-3">
-      <div class="content">
-        <div class="column-33" id="options">
-          <img class="booklet" src="img/2slices.png" alt="Pizza A">
-          <div class="column-33-bottom">
-            <p class="various-text">Пицца Доставка A</p>
-            <p class="star">☆☆☆☆☆</p>
-            <div class="buffer-center">
-              <a class="button2 button-black" href="#">КУПИТЬ</a>
-            </div>
+  <div class="content-chapter-3">
+    <div class="content">
+      <div class="column-33" id="options">
+        <img class="booklet" src="img/2slices.png" alt="Pizza A">
+        <div class="column-33-bottom">
+          <p class="various-text">Пицца Доставка A</p>
+          <p class="star">☆☆☆☆☆</p>
+          <div class="buffer-center">
+            <a class="button2 button-black" href="#">КУПИТЬ</a>
           </div>
         </div>
       </div>
-      <div class="content">
-        <div class="column-33">
-          <img class="booklet" src="img/2slices.png" alt="Pizza B">
-          <div class="column-33-bottom">
-            <p class="various-text">Пицца Доставка B</p>
-            <p class="star">☆☆☆☆☆</p>
-            <div class="buffer-center">
-              <a class="button2 button-black" href="#">КУПИТЬ</a>
-            </div>
+    </div>
+    <div class="content">
+      <div class="column-33">
+        <img class="booklet" src="img/2slices.png" alt="Pizza B">
+        <div class="column-33-bottom">
+          <p class="various-text">Пицца Доставка B</p>
+          <p class="star">☆☆☆☆☆</p>
+          <div class="buffer-center">
+            <a class="button2 button-black" href="#">КУПИТЬ</a>
           </div>
         </div>
       </div>
-      <div class="content">
-        <div class="column-33">
-          <img class="booklet" src="img/2slices.png" alt="Pizza C">
-          <div class="column-33-bottom">
-            <p class="various-text">Пицца Доставка C</p>
-            <p class="star">☆☆☆☆☆</p>
-            <div class="buffer-center">
-              <a class="button2 button-black" href="#">КУПИТЬ</a>
-            </div>
+    </div>
+    <div class="content">
+      <div class="column-33">
+        <img class="booklet" src="img/2slices.png" alt="Pizza C">
+        <div class="column-33-bottom">
+          <p class="various-text">Пицца Доставка C</p>
+          <p class="star">☆☆☆☆☆</p>
+          <div class="buffer-center">
+            <a class="button2 button-black" href="#">КУПИТЬ</a>
           </div>
         </div>
       </div>
-  </section>
-  <!-- options -->
-  <!-- clients -->
-  <section>
+    </div>
+    <!-- options -->
+    <!-- clients -->
     <div class="content">
       <div class="column-60 margin" id="clients">
         <img class="rightimg" src="img/nuton.png" alt="Isaac Newton">
@@ -156,11 +159,10 @@
         <p class="various-text">«... я люблю — пиццу с сырами пармезан и моцарелла, а также с томатами, анчоусами, базиликом и оливковым маслом»</p>
       </div>
     </div>
-  </section>
-  <!-- clients -->
-  <!-- main -->
-</div>
-<div class="push"></div>
+    <!-- clients -->
+    <!-- main -->
+  </div>
+  <div class="push"></div>
 </div>
 <div class="footer">Пицца Gastro Obscura</div>
 </body>

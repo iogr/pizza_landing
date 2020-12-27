@@ -59,10 +59,10 @@
     float: none;
   }
 
-  .header-nav-item {
+  .header-nav-item, .intro {
     display: none;
   }
-
+  
   .header-nav {
     float: none;
     padding-bottom: 20px;

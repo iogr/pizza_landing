@@ -107,6 +107,10 @@ body {
   display: inline;
 } 
 
+.intro {
+  margin-top: 120px;
+}
+
 .star {
 /*for future*/
 }
@@ -121,7 +125,7 @@ body {
   }
 
   .special {
-  margin-top: calc(32px + 1vw);
+    margin-top: calc(32px + 1vw);
   }
 }
 @media (max-width: 640px) {
@@ -135,7 +139,12 @@ body {
   }
 
   .special {
-  margin-top: 1vw;
+    margin-top: 1vw;
+  }
+
+  .intro {
+    display: none;
+    width: 0;
   }
 }
 
