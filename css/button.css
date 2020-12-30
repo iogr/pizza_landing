@@ -47,10 +47,6 @@
   color: #fff;
 }
 
-.buffer-center {
-  float: center;
-}
-
 @media (max-width: 960px) {
   .button, .button2 {
     font-size: 2em;

@@ -2,6 +2,7 @@ body {
   max-width: 56em;
   margin: auto;
   background-color: #f6f5f3;
+  overflow-x: hidden;
 }
 
 .wrapper {
@@ -27,7 +28,6 @@ body {
   margin-right: 0px;
   border-radius: 30px;
   padding: .4em;
-  align-items: left;
   justify-content: center;
 }
 
