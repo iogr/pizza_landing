@@ -133,7 +133,7 @@ body {
     font-size: 2em;
   }
 
-  .leftimg, .rightimg, .leftimg_delivery {
+  .leftimg, .rightimg {
     width: 50%;
     max-width: 50%;
   }
@@ -153,8 +153,9 @@ body {
     font-size: 2em;
   }
 
-  .leftimg, .rightimg, .leftimg_delivery {
+  .leftimg, .rightimg {
     width: 50%;
-    max-width: 33.33%;
+    max-width: 50%;
+    min-width: calc(150px + 35vw);
   }
 }
