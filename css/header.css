@@ -57,6 +57,7 @@
   .header {
     position: absolute;
     float: none;
+    overflow-x: hidden;
   }
 
   .header-nav-item, .intro {
