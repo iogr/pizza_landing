@@ -96,7 +96,7 @@ body {
 
 .list-title {
   padding: 1em .3em 0em 0em;
-  margin: .2em  3em 0em 0em;
+  margin: .2em .3em 0em 0em;
 }
 
 .list-link {
@@ -166,11 +166,8 @@ body {
   .photo {
     margin-top: calc(32px + 1vw); 
   }
-
-  .leftimg, .rightimg {
-    width: 0;
-  }
 }
+
 @media (max-width: 640px) {
   .wrapper, .list-title-various-text {
     font-size: 2em;
