@@ -160,7 +160,7 @@ body {
   }
 
   .special {
-    margin-top: calc(32px + 1vw);
+    /*margin-top: calc(32px + 1vw);*/
   }
 
   .photo {
