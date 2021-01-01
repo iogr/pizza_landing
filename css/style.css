@@ -134,6 +134,10 @@ body {
   margin-top: calc(18px + 1vw);
 }
 
+.special-text {
+  padding-top: calc(40px + 2vw);
+}
+
 .text-center {
   text-align: center;
 }
@@ -159,7 +163,7 @@ body {
     display: none;
   }
 
-  .special {
+  .special-text {
     /*margin-top: calc(32px + 1vw);*/
   }
 
