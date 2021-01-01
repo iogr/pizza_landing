@@ -208,7 +208,11 @@ body {
     min-width: calc(150px + 35vw);
   }
 
+  .clients-image-border-radius {
+    width: calc(32px + 50vw); 
+  }
+
   .special {
-    width: 30%;
+    width: 45%;
   }
 }
