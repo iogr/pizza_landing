@@ -4,6 +4,7 @@
   font-size: calc(15px + 1vw);
   font-weight: bold;
   height: 50px;
+  margin-top: calc(18px + 5vw);
 }
 
 @media (max-width: 960px) {
