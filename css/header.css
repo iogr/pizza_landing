@@ -12,6 +12,9 @@
   float: right;
   vertical-align: baseline;
   line-height: 36px;
+  display: flex;
+  text-align: right;
+  flex-direction: row;
 }
 
 .header-nav-item {
@@ -49,7 +52,8 @@
   }
 
   .header-nav {
-    float: none;
+    /*float: none;*/
+    display: none;
   }
 }
 

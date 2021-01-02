@@ -57,6 +57,15 @@ body {
   width: 45%;
 }
 
+.title {
+  font-size: calc(20px + 1vw);
+}
+
+.title-text {
+  text-align: center;
+  justify-content: space-between;
+}
+
 .various-text {
   line-height: 1.5em;
   font-weight: bold;
@@ -114,7 +123,7 @@ body {
 }
 
 .clients-text {
-  .line-height: calc(18px + 5vw);
+  line-height: calc(18px + 5vw);
 }
 
 .clients-image-border-radius {
@@ -163,12 +172,20 @@ body {
     display: none;
   }
 
+  .title-text {
+    display: none;
+  }
+
   .special-text {
     /*margin-top: calc(32px + 1vw);*/
   }
 
   .photo {
     margin-top: calc(32px + 1vw); 
+  }
+
+  .buffer {
+    margin: 20px;
   }
 }
 
