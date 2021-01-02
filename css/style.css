@@ -176,10 +176,6 @@ body {
     display: none;
   }
 
-  .special-text {
-    /*margin-top: calc(32px + 1vw);*/
-  }
-
   .photo {
     margin-top: calc(32px + 1vw); 
   }
@@ -190,6 +186,10 @@ body {
 }
 
 @media (max-width: 640px) {
+  .note {
+    margin-top: calc(45px + 10vw);
+  }
+
   .wrapper, .list-title-various-text {
     font-size: 2em;
   }
