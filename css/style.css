@@ -72,6 +72,12 @@ body {
   margin-bottom: 1vw;
 }
 
+.sticker-text {
+  line-height: 1.5em;
+  font-weight: bold;
+  margin-top: 1vw;
+}
+
 .text-center {
   text-align: center;
 }
@@ -97,6 +103,11 @@ body {
   margin-top: .4em;
   margin-top: .8em;
   font-size: calc(18px + 1vw);
+}
+
+.sticker {
+  width: 40%;
+  filter: drop-shadow(0 0 5px rgba(0,0,0,0.3));
 }
 
 .note_title {
