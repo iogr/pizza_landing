@@ -105,19 +105,6 @@ body {
   font-size: calc(18px + 1vw);
 }
 
-.sticker {
-  width: 40%;
-  opacity: .1;
-  filter: drop-shadow(0 0 5px rgba(0,0,0,0.3));
-  filter: hue-rotate(180deg);
-}
-
-.sticker:hover {
-  opacity: 1;
-  filter: sepia(0);
-  filter: drop-shadow(0 0 5px rgba(0,0,0,0.3));
-}
-
 .note_title {
   color: #7D1424;
 }
