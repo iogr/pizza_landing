@@ -17,6 +17,21 @@
   font-weight: bold;
 }
 
+.button-intro {
+  font-size: calc(10px + 1vw);
+  font-family: "PT Sans", "Arial", sans-serif;
+  font-stretch: extra-expanded;
+  margin-top: calc(18px + 6vw);
+  margin-bottom: calc(10px + 1vw);
+  background: #8aba56;
+  color: #000;
+}
+
+.button-intro:hover {
+  background: #6a9a36;
+  transition: all ease .3s;
+}
+
 .button-green {
   font-size: calc(10px + 1vw);
   font-family: "PT Sans", "Arial", sans-serif;
@@ -52,9 +67,13 @@
     font-size: 2em;
   }
 
+  .button-intro {
+    margin-top: calc(10px + 4vw);
+  }
+
   .button-black {
     font-size: 1.5em;
-    padding: 10px 10px;
+    padding: 10px 8px;
   }
 }
 

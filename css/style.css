@@ -157,6 +157,7 @@ body {
 
 .intro {
   margin-top: calc(120px + 1vw);
+  height: calc(120px + 10vw);
 }
 
 .star {
